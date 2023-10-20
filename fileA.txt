@@ -1,3 +1,1 @@
-N/A
-feature1
-feature1 with 1 bug
+feature 1 with bug fix
